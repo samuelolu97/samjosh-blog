@@ -11,7 +11,7 @@ categories:
 tags:
   - life
   - meaning
-draft: true
+draft: false
 ---
 understanding the meaning of life and shits
 
