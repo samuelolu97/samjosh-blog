@@ -65,7 +65,7 @@ disqusShortname = "samblog-1"
 
   # search
    enableSearch = true
-   [outputs]
+   
   home = ["HTML", "RSS", "JSON"]
 
   # options
