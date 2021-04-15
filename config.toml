@@ -1,0 +1,78 @@
+baseurl = "/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Sam's Blog"
+theme = "dream"
+
+# copyright = ""
+
+# googleAnalytics = ""
+
+disqusShortname = "samblog-1"
+
+# enableRobotsTXT = true
+
+[params]
+  background = "#f7f7f7"
+  backgroundImage = "/img/background.jpg"
+  linkColor = "seagreen"
+
+# dark mode
+   defaultDark = true
+   backgroundDark = "gray"
+  backgroundImageDark = "/img/background.jpg"
+  darkLinkColor = "darkseagreen"
+   darkNav = true
+   dark404 = true
+
+  author = "Samuel Olugbenga Joshua"
+  # description = "A blog detailing the thought of samuel Olugbenga joshua"
+  avatar = "/img/sampic2.jpg"
+  # headerTitle = ""
+  motto = "My random thoughts and ideas"
+  # categoriesLimitInHeader = 6 # deprecated
+  # headerBottomText = "" # deprecated
+
+  # footerBottomText = ""
+
+  # rss = true
+
+  # utterancesRepo = "5r5gt5t4t4"
+
+  # valine = true
+  # LEANCLOUD_APP_ID = ""
+  # LEANCLOUD_APP_KEY = ""
+
+  email = "samuelolugbenga97@gmail.com"
+  twitter = "@OJ_SAMUEL1"
+  facebook = " samuel.olugbenga.9"
+   #instagram = ""
+  # mastodon = "sam"
+  linkedin = "samuel-olugbenga"
+    github = "samuelolu97"
+  # stackoverflow = "sasdd"
+  # codepen = "dgrgr"
+
+  siteStartYear = 2021
+
+  favicon = "/img/favicon.ico"
+
+   highlightjs = true
+  # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
+  highlightjsExtraLanguages = ["clojure", "ocaml"]
+  highlightjsTheme = "tomorrow"
+  highlightjsThemeDark = "tomorrow-night"
+
+  # search
+   enableSearch = true
+   [outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+  # options
+   showSummaryCoverInPost = true
+  # hasTwitterEmbed = true
+  # reversePostAndAside = true
+
+  [params.advanced]
+     customCSS = ["css/custom.css"]
+     customJS = []
