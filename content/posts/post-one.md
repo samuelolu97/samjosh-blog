@@ -11,7 +11,7 @@ categories:
 tags:
   - start
   - begininig
-draft: false
+draft: true
 ---
 
 Cut out summary from your post content here.
